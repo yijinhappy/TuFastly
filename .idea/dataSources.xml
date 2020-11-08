@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="tufastly" uuid="49f0333e-ef65-4bd5-8958-74afd159095a">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://laiproject-instance.cljieufcfbvr.us-east-2.rds.amazonaws.com:3306/tufastly</jdbc-url>
+    </data-source>
+  </component>
+</project>
